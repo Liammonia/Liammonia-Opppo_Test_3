@@ -1,8 +1,5 @@
 #include <iostream>
-
-
 double my_pow(double a, int b) {
-	double c = a;
   
 	if (b > 0)
 		for (size_t i = 1; i < b; i++)
